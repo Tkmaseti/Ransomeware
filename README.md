@@ -1,3 +1,3 @@
 # Ransomeware
 
-## Basic ransomeware attack using fernet for encyption and decryption
+## Basic stable ransomeware virus using fernet for encyption and decryption
